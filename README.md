@@ -9,7 +9,7 @@ Siapin alat dan bahannya.
 > internet yang memadai, kalo lu gapunya kuota pake kuota kemendikbud ae
 > aplikasi whatsapp
 > aplikasi termux
-> kopi
+> teh manis dingin
 ```
 
 ### Cara Installnya
